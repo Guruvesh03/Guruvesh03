@@ -1,5 +1,7 @@
 (https://capsule-render.vercel.app/api?type=waving&height=250&color=18181B&text=Guruvesh%20Bachhav&reversal=false&textBg=false&fontSize=40&fontAlign=50&animation=fadeIn&desc=Computer%20Engineering%20Student%20•%20Java%20•%20DSA%20•%20Web%20Development&descSize=20&section=header&fontColor=FFFFFF&strokeWidth=1&descAlign=50&fontAlignY=40)
-
+<p align="center">
+  <img src="(https://capsule-render.vercel.app/api?type=waving&height=250&color=18181B&text=Guruvesh%20Bachhav&reversal=false&textBg=false&fontSize=40&fontAlign=50&animation=fadeIn&desc=Computer%20Engineering%20Student%20•%20Java%20•%20DSA%20•%20Web%20Development&descSize=20&section=header&fontColor=FFFFFF&strokeWidth=1&descAlign=50&fontAlignY=40)" />
+</p>
 <!--
 **Guruvesh03/Guruvesh03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
