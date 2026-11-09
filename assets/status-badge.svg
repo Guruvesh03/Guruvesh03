@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 54" width="100%" height="54" fill="none">
+  <defs>
+    <filter id="radar-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Capsule Border with Animated Luminous Tracer -->
+  <rect x="2" y="2" width="956" height="50" rx="25" fill="#0B101D" stroke="#1E293B" stroke-width="1.5"/>
+  <rect x="2" y="2" width="956" height="50" rx="25" fill="none" stroke="#10B981" stroke-width="2" stroke-dasharray="140 1818" filter="url(#radar-glow)">
+    <animate attributeName="stroke-dashoffset" from="0" to="-1958" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Pulsing Radar Beacon -->
+  <circle cx="36" cy="27" r="7" fill="#10B981" filter="url(#radar-glow)">
+    <animate attributeName="r" values="5;9;5" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="36" cy="27" r="3" fill="#FFFFFF"/>
+
+  <!-- Status Text Items -->
+  <text x="56" y="32" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="800" fill="#10B981" letter-spacing="2">OPEN TO WORK</text>
+  <text x="180" y="32" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#475569">│</text>
+  <text x="200" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F8FAFC">Targeting SDE &amp; Python Backend Engineering Roles</text>
+  <text x="600" y="32" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#475569">│</text>
+  <text x="620" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#94A3B8">Pune · Bangalore · Remote</text>
+  <text x="820" y="32" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#475569">│</text>
+  <text x="932" y="32" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="700" fill="#F59E0B">CLASS OF 2027</text>
+</svg>

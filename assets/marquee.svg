@@ -1,1 +1,224 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 188" width="960" height="188" font-family="'Segoe UI', Arial, sans-serif"><defs><pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#22D3EE" stroke-opacity="0.07"/></pattern><filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="fade" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#000"/><stop offset="0.08" stop-color="#fff"/><stop offset="0.92" stop-color="#fff"/><stop offset="1" stop-color="#000"/></linearGradient><mask id="m"><rect width="960" height="188" fill="url(#fade)"/></mask></defs><rect width="960" height="188" rx="16" fill="#070B1A"/><rect width="960" height="188" rx="16" fill="url(#grid)"/><g mask="url(#m)"><text x="32" y="22" font-size="11" letter-spacing="2" fill="#64748B">SKILLS</text><g><animateTransform attributeName="transform" type="translate" from="0 0" to="-1425.2000000000005 0" dur="31.0s" repeatCount="indefinite"/><g transform="translate(0.0,30)"><rect width="94.4" height="38" rx="19" fill="#0B1226" stroke="#22D3EE" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#22D3EE"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">Python</text></g><g transform="translate(108.4,30)"><rect width="77.6" height="38" rx="19" fill="#0B1226" stroke="#F472B6" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#F472B6"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">Java</text></g><g transform="translate(200.0,30)"><rect width="128.0" height="38" rx="19" fill="#0B1226" stroke="#A3E635" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#A3E635"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">JavaScript</text></g><g transform="translate(342.0,30)"><rect width="86.0" height="38" rx="19" fill="#0B1226" stroke="#FBBF24" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#FBBF24"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">React</text></g><g transform="translate(442.0,30)"><rect width="86.0" height="38" rx="19" fill="#0B1226" stroke="#A78BFA" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#A78BFA"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">HTML5</text></g><g transform="translate(542.0,30)"><rect width="77.6" height="38" rx="19" fill="#0B1226" stroke="#22D3EE" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#22D3EE"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">CSS3</text></g><g transform="translate(633.6,30)"><rect width="69.2" height="38" rx="19" fill="#0B1226" stroke="#F472B6" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#F472B6"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">SQL</text></g><g transform="translate(716.8,30)"><rect width="86.0" height="38" rx="19" fill="#0B1226" stroke="#A3E635" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#A3E635"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">MySQL</text></g><g transform="translate(816.8,30)"><rect width="102.8" height="38" rx="19" fill="#0B1226" stroke="#FBBF24" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#FBBF24"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">MongoDB</text></g><g transform="translate(933.6,30)"><rect width="119.6" height="38" rx="19" fill="#0B1226" stroke="#A78BFA" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#A78BFA"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">Streamlit</text></g><g transform="translate(1067.2,30)"><rect width="69.2" height="38" rx="19" fill="#0B1226" stroke="#22D3EE" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#22D3EE"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">Git</text></g><g transform="translate(1150.4,30)"><rect width="94.4" height="38" rx="19" fill="#0B1226" stroke="#F472B6" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#F472B6"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">GitHub</text></g><g transform="translate(1258.8,30)"><rect width="69.2" height="38" rx="19" fill="#0B1226" stroke="#A3E635" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#A3E635"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">OOP</text></g><g transform="translate(1342.0,30)"><rect width="69.2" height="38" rx="19" fill="#0B1226" stroke="#FBBF24" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#FBBF24"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">DSA</text></g><g transform="translate(1425.2,0)"><g transform="translate(0.0,30)"><rect width="94.4" height="38" rx="19" fill="#0B1226" stroke="#22D3EE" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#22D3EE"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">Python</text></g><g transform="translate(108.4,30)"><rect width="77.6" height="38" rx="19" fill="#0B1226" stroke="#F472B6" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#F472B6"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">Java</text></g><g transform="translate(200.0,30)"><rect width="128.0" height="38" rx="19" fill="#0B1226" stroke="#A3E635" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#A3E635"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">JavaScript</text></g><g transform="translate(342.0,30)"><rect width="86.0" height="38" rx="19" fill="#0B1226" stroke="#FBBF24" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#FBBF24"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">React</text></g><g transform="translate(442.0,30)"><rect width="86.0" height="38" rx="19" fill="#0B1226" stroke="#A78BFA" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#A78BFA"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">HTML5</text></g><g transform="translate(542.0,30)"><rect width="77.6" height="38" rx="19" fill="#0B1226" stroke="#22D3EE" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#22D3EE"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">CSS3</text></g><g transform="translate(633.6,30)"><rect width="69.2" height="38" rx="19" fill="#0B1226" stroke="#F472B6" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#F472B6"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">SQL</text></g><g transform="translate(716.8,30)"><rect width="86.0" height="38" rx="19" fill="#0B1226" stroke="#A3E635" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#A3E635"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">MySQL</text></g><g transform="translate(816.8,30)"><rect width="102.8" height="38" rx="19" fill="#0B1226" stroke="#FBBF24" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#FBBF24"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">MongoDB</text></g><g transform="translate(933.6,30)"><rect width="119.6" height="38" rx="19" fill="#0B1226" stroke="#A78BFA" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#A78BFA"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">Streamlit</text></g><g transform="translate(1067.2,30)"><rect width="69.2" height="38" rx="19" fill="#0B1226" stroke="#22D3EE" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#22D3EE"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">Git</text></g><g transform="translate(1150.4,30)"><rect width="94.4" height="38" rx="19" fill="#0B1226" stroke="#F472B6" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#F472B6"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">GitHub</text></g><g transform="translate(1258.8,30)"><rect width="69.2" height="38" rx="19" fill="#0B1226" stroke="#A3E635" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#A3E635"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">OOP</text></g><g transform="translate(1342.0,30)"><rect width="69.2" height="38" rx="19" fill="#0B1226" stroke="#FBBF24" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#FBBF24"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">DSA</text></g></g></g><text x="32" y="96" font-size="11" letter-spacing="2" fill="#64748B">LEARNING NOW</text><g><animateTransform attributeName="transform" type="translate" from="-1871.9999999999998 0" to="0 0" dur="46.8s" repeatCount="indefinite"/><g transform="translate(0.0,104)"><rect width="161.6" height="38" rx="19" fill="#0B1226" stroke="#22D3EE" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#22D3EE"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">Python backend</text></g><g transform="translate(175.6,104)"><rect width="128.0" height="38" rx="19" fill="#0B1226" stroke="#F472B6" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#F472B6"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">PostgreSQL</text></g><g transform="translate(317.6,104)"><rect width="119.6" height="38" rx="19" fill="#0B1226" stroke="#A3E635" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#A3E635"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">REST APIs</text></g><g transform="translate(451.2,104)"><rect width="186.8" height="38" rx="19" fill="#0B1226" stroke="#FBBF24" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#FBBF24"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">Computer Networks</text></g><g transform="translate(652.0,104)"><rect width="153.2" height="38" rx="19" fill="#0B1226" stroke="#A78BFA" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#A78BFA"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">System Design</text></g><g transform="translate(819.2,104)"><rect width="102.8" height="38" rx="19" fill="#0B1226" stroke="#22D3EE" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#22D3EE"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">AI / ML</text></g><g transform="translate(936.0,104)"><rect width="161.6" height="38" rx="19" fill="#0B1226" stroke="#F472B6" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#F472B6"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">Python backend</text></g><g transform="translate(1111.6,104)"><rect width="128.0" height="38" rx="19" fill="#0B1226" stroke="#A3E635" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#A3E635"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">PostgreSQL</text></g><g transform="translate(1253.6,104)"><rect width="119.6" height="38" rx="19" fill="#0B1226" stroke="#FBBF24" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#FBBF24"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">REST APIs</text></g><g transform="translate(1387.2,104)"><rect width="186.8" height="38" rx="19" fill="#0B1226" stroke="#A78BFA" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#A78BFA"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">Computer Networks</text></g><g transform="translate(1588.0,104)"><rect width="153.2" height="38" rx="19" fill="#0B1226" stroke="#22D3EE" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#22D3EE"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">System Design</text></g><g transform="translate(1755.2,104)"><rect width="102.8" height="38" rx="19" fill="#0B1226" stroke="#F472B6" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#F472B6"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">AI / ML</text></g><g transform="translate(1872.0,0)"><g transform="translate(0.0,104)"><rect width="161.6" height="38" rx="19" fill="#0B1226" stroke="#22D3EE" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#22D3EE"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">Python backend</text></g><g transform="translate(175.6,104)"><rect width="128.0" height="38" rx="19" fill="#0B1226" stroke="#F472B6" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#F472B6"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">PostgreSQL</text></g><g transform="translate(317.6,104)"><rect width="119.6" height="38" rx="19" fill="#0B1226" stroke="#A3E635" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#A3E635"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">REST APIs</text></g><g transform="translate(451.2,104)"><rect width="186.8" height="38" rx="19" fill="#0B1226" stroke="#FBBF24" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#FBBF24"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">Computer Networks</text></g><g transform="translate(652.0,104)"><rect width="153.2" height="38" rx="19" fill="#0B1226" stroke="#A78BFA" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#A78BFA"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">System Design</text></g><g transform="translate(819.2,104)"><rect width="102.8" height="38" rx="19" fill="#0B1226" stroke="#22D3EE" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#22D3EE"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">AI / ML</text></g><g transform="translate(936.0,104)"><rect width="161.6" height="38" rx="19" fill="#0B1226" stroke="#F472B6" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#F472B6"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">Python backend</text></g><g transform="translate(1111.6,104)"><rect width="128.0" height="38" rx="19" fill="#0B1226" stroke="#A3E635" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#A3E635"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">PostgreSQL</text></g><g transform="translate(1253.6,104)"><rect width="119.6" height="38" rx="19" fill="#0B1226" stroke="#FBBF24" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#FBBF24"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">REST APIs</text></g><g transform="translate(1387.2,104)"><rect width="186.8" height="38" rx="19" fill="#0B1226" stroke="#A78BFA" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#A78BFA"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">Computer Networks</text></g><g transform="translate(1588.0,104)"><rect width="153.2" height="38" rx="19" fill="#0B1226" stroke="#22D3EE" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#22D3EE"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">System Design</text></g><g transform="translate(1755.2,104)"><rect width="102.8" height="38" rx="19" fill="#0B1226" stroke="#F472B6" stroke-width="1.5"/><circle cx="18" cy="19" r="4" fill="#F472B6"/><text x="30" y="24" font-size="14" font-weight="600" fill="#E2E8F0">AI / ML</text></g></g></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 170" width="100%" height="170" fill="none">
+  <defs>
+    <linearGradient id="fade-edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="6%" stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="94%" stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="edge-mask">
+      <rect width="960" height="170" fill="url(#fade-edge)"/>
+    </mask>
+  </defs>
+
+  <rect width="960" height="170" rx="14" fill="#0A0E1A" stroke="#1E293B" stroke-width="1.5"/>
+
+  <!-- Top Annotation -->
+  <text x="32" y="24" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="700" fill="#F59E0B" letter-spacing="2">ACTIVE SKILLS &amp; ARCHITECTURAL STACK</text>
+
+  <g mask="url(#edge-mask)">
+    <!-- Row 1: Left to Right -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1233.0 0" dur="24s" repeatCount="indefinite"/>
+      
+      <g transform="translate(0.0, 38)">
+        <rect width="95.0" height="36" rx="18" fill="#111827" stroke="#38BDF8" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#38BDF8"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">Python</text>
+      </g>
+      <g transform="translate(109.0, 38)">
+        <rect width="78.0" height="36" rx="18" fill="#111827" stroke="#F59E0B" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#F59E0B"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">Java</text>
+      </g>
+      <g transform="translate(201.0, 38)">
+        <rect width="129.0" height="36" rx="18" fill="#111827" stroke="#10B981" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#10B981"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">PostgreSQL</text>
+      </g>
+      <g transform="translate(344.0, 38)">
+        <rect width="120.5" height="36" rx="18" fill="#111827" stroke="#60A5FA" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#60A5FA"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">REST APIs</text>
+      </g>
+      <g transform="translate(478.5, 38)">
+        <rect width="86.5" height="36" rx="18" fill="#111827" stroke="#F472B6" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#F472B6"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">React</text>
+      </g>
+      <g transform="translate(579.0, 38)">
+        <rect width="69.5" height="36" rx="18" fill="#111827" stroke="#A78BFA" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#A78BFA"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">SQL</text>
+      </g>
+      <g transform="translate(662.5, 38)">
+        <rect width="103.5" height="36" rx="18" fill="#111827" stroke="#38BDF8" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#38BDF8"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">MongoDB</text>
+      </g>
+      <g transform="translate(780.0, 38)">
+        <rect width="69.5" height="36" rx="18" fill="#111827" stroke="#F59E0B" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#F59E0B"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">Git</text>
+      </g>
+      <g transform="translate(863.5, 38)">
+        <rect width="120.5" height="36" rx="18" fill="#111827" stroke="#10B981" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#10B981"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">Streamlit</text>
+      </g>
+      <g transform="translate(998.0, 38)">
+        <rect width="137.5" height="36" rx="18" fill="#111827" stroke="#60A5FA" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#60A5FA"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">DSA in Java</text>
+      </g>
+      <g transform="translate(1149.5, 38)">
+        <rect width="69.5" height="36" rx="18" fill="#111827" stroke="#F472B6" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#F472B6"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">OOP</text>
+      </g>
+      <g transform="translate(1233.0, 0)">
+      <g transform="translate(0.0, 38)">
+        <rect width="95.0" height="36" rx="18" fill="#111827" stroke="#38BDF8" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#38BDF8"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">Python</text>
+      </g>
+      <g transform="translate(109.0, 38)">
+        <rect width="78.0" height="36" rx="18" fill="#111827" stroke="#F59E0B" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#F59E0B"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">Java</text>
+      </g>
+      <g transform="translate(201.0, 38)">
+        <rect width="129.0" height="36" rx="18" fill="#111827" stroke="#10B981" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#10B981"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">PostgreSQL</text>
+      </g>
+      <g transform="translate(344.0, 38)">
+        <rect width="120.5" height="36" rx="18" fill="#111827" stroke="#60A5FA" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#60A5FA"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">REST APIs</text>
+      </g>
+      <g transform="translate(478.5, 38)">
+        <rect width="86.5" height="36" rx="18" fill="#111827" stroke="#F472B6" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#F472B6"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">React</text>
+      </g>
+      <g transform="translate(579.0, 38)">
+        <rect width="69.5" height="36" rx="18" fill="#111827" stroke="#A78BFA" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#A78BFA"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">SQL</text>
+      </g>
+      <g transform="translate(662.5, 38)">
+        <rect width="103.5" height="36" rx="18" fill="#111827" stroke="#38BDF8" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#38BDF8"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">MongoDB</text>
+      </g>
+      <g transform="translate(780.0, 38)">
+        <rect width="69.5" height="36" rx="18" fill="#111827" stroke="#F59E0B" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#F59E0B"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">Git</text>
+      </g>
+      <g transform="translate(863.5, 38)">
+        <rect width="120.5" height="36" rx="18" fill="#111827" stroke="#10B981" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#10B981"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">Streamlit</text>
+      </g>
+      <g transform="translate(998.0, 38)">
+        <rect width="137.5" height="36" rx="18" fill="#111827" stroke="#60A5FA" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#60A5FA"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">DSA in Java</text>
+      </g>
+      <g transform="translate(1149.5, 38)">
+        <rect width="69.5" height="36" rx="18" fill="#111827" stroke="#F472B6" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#F472B6"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">OOP</text>
+      </g></g>
+    </g>
+
+    <!-- Row 2: Right to Left -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="-1263.0 0" to="0 0" dur="28s" repeatCount="indefinite"/>
+      
+      <g transform="translate(0.0, 94)">
+        <rect width="154.5" height="36" rx="18" fill="#111827" stroke="#34D399" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#34D399"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">System Design</text>
+      </g>
+      <g transform="translate(168.5, 94)">
+        <rect width="188.5" height="36" rx="18" fill="#111827" stroke="#FB923C" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#FB923C"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">Computer Networks</text>
+      </g>
+      <g transform="translate(371.0, 94)">
+        <rect width="146.0" height="36" rx="18" fill="#111827" stroke="#818CF8" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#818CF8"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">Document OCR</text>
+      </g>
+      <g transform="translate(531.0, 94)">
+        <rect width="180.0" height="36" rx="18" fill="#111827" stroke="#F43F5E" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#F43F5E"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">Machine Learning</text>
+      </g>
+      <g transform="translate(725.0, 94)">
+        <rect width="146.0" height="36" rx="18" fill="#111827" stroke="#38BDF8" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#38BDF8"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">Scikit-Learn</text>
+      </g>
+      <g transform="translate(885.0, 94)">
+        <rect width="95.0" height="36" rx="18" fill="#111827" stroke="#A3E635" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#A3E635"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">Docker</text>
+      </g>
+      <g transform="translate(994.0, 94)">
+        <rect width="137.5" height="36" rx="18" fill="#111827" stroke="#34D399" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#34D399"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">Linux Shell</text>
+      </g>
+      <g transform="translate(1145.5, 94)">
+        <rect width="103.5" height="36" rx="18" fill="#111827" stroke="#FB923C" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#FB923C"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">FastAPI</text>
+      </g>
+      <g transform="translate(1263.0, 0)">
+      <g transform="translate(0.0, 94)">
+        <rect width="154.5" height="36" rx="18" fill="#111827" stroke="#34D399" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#34D399"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">System Design</text>
+      </g>
+      <g transform="translate(168.5, 94)">
+        <rect width="188.5" height="36" rx="18" fill="#111827" stroke="#FB923C" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#FB923C"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">Computer Networks</text>
+      </g>
+      <g transform="translate(371.0, 94)">
+        <rect width="146.0" height="36" rx="18" fill="#111827" stroke="#818CF8" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#818CF8"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">Document OCR</text>
+      </g>
+      <g transform="translate(531.0, 94)">
+        <rect width="180.0" height="36" rx="18" fill="#111827" stroke="#F43F5E" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#F43F5E"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">Machine Learning</text>
+      </g>
+      <g transform="translate(725.0, 94)">
+        <rect width="146.0" height="36" rx="18" fill="#111827" stroke="#38BDF8" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#38BDF8"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">Scikit-Learn</text>
+      </g>
+      <g transform="translate(885.0, 94)">
+        <rect width="95.0" height="36" rx="18" fill="#111827" stroke="#A3E635" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#A3E635"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">Docker</text>
+      </g>
+      <g transform="translate(994.0, 94)">
+        <rect width="137.5" height="36" rx="18" fill="#111827" stroke="#34D399" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#34D399"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">Linux Shell</text>
+      </g>
+      <g transform="translate(1145.5, 94)">
+        <rect width="103.5" height="36" rx="18" fill="#111827" stroke="#FB923C" stroke-width="1.2"/>
+        <circle cx="16" cy="18" r="3.5" fill="#FB923C"/>
+        <text x="28" y="22.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#F3F4F6">FastAPI</text>
+      </g></g>
+    </g>
+  </g>
+</svg>
