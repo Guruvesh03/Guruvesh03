@@ -38,14 +38,6 @@
 
 <p align="center"><a href="https://github.com/Guruvesh03"><img src="assets/divider.svg" width="100%" alt="" /></a></p>
 
-## 🔌 How I Build
-
-<a href="https://github.com/Guruvesh03">
-  <img src="assets/pipeline.svg" width="100%" alt="Animated diagram: React UI sends requests to a Python API, which queries a database; an AI/ML service is the next step" />
-</a>
-
-<p align="center"><a href="https://github.com/Guruvesh03"><img src="assets/divider.svg" width="100%" alt="" /></a></p>
-
 ## 🧭 My Journey
 
 <a href="https://github.com/Guruvesh03">
@@ -127,17 +119,16 @@
   <a href="https://github.com/Guruvesh03">
     <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <!-- Add yours, then delete this comment:
-  <a href="https://www.linkedin.com/in/YOUR-HANDLE">
+
+  <a href="https://www.linkedin.com/in/guruvesh-bachhav-099538312/">
     <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR-EMAIL">
+  <a href="guruveshbachhav@gmail.com">
     <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="YOUR-RESUME-LINK">
+ <!-- <a href="YOUR-RESUME-LINK">
     <img src="https://img.shields.io/badge/Resume-4ADE80?style=for-the-badge&logo=readthedocs&logoColor=black" alt="Resume"/>
-  </a>
-  -->
+  </a> -->
 </p>
 
 <a href="https://github.com/Guruvesh03">
