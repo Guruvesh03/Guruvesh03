@@ -1,0 +1,33 @@
+name: Space cards
+
+on:
+  workflow_dispatch:        # lets you run it manually from the Actions tab
+  schedule:
+    - cron: "0 */12 * * *"  # every 12 hours
+  push:
+    paths:
+      - "scripts/generate_space_cards.py"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generate cards from live GitHub data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: Guruvesh03
+        run: python scripts/generate_space_cards.py
+      - name: Commit updated cards
+        run: |
+          git config user.name "space-cards[bot]"
+          git config user.email "actions@users.noreply.github.com"
+          git add assets/*.svg
+          git diff --cached --quiet || git commit -m "chore: refresh space cards"
+          git push
