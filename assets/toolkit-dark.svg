@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 310" width="100%" height="310" fill="none">
+  <!-- 4 Columns -->
+  
+    <!-- Column 01 -->
+    <g transform="translate(16.0, 20)">
+      <rect x="0" y="0" width="223.0" height="200" rx="4" fill="#15171C" stroke="#23262E" stroke-width="1"/>
+      <line x1="0" y1="44" x2="223.0" y2="44" stroke="#23262E" stroke-width="1"/>
+      
+      <text x="14" y="24" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="9" font-weight="700" fill="#E06D3B" letter-spacing="1.5">01 // LANGUAGES</text>
+      <text x="14" y="36" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8" fill="#757B8A">Core Execution</text>
+      
+      <g transform="translate(14, 72)">
+        <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#F4F0EA">Python</text>
+        <text x="0" y="14" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8.5" fill="#757B8A">Backend systems, APIs, scripts</text>
+      </g>
+      <g transform="translate(14, 104)">
+        <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#F4F0EA">Java</text>
+        <text x="0" y="14" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8.5" fill="#757B8A">Data structures, OOP, algorithms</text>
+      </g>
+      <g transform="translate(14, 136)">
+        <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#F4F0EA">JavaScript</text>
+        <text x="0" y="14" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8.5" fill="#757B8A">Modern UI &amp; web interactions</text>
+      </g>
+      <g transform="translate(14, 168)">
+        <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#F4F0EA">SQL</text>
+        <text x="0" y="14" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8.5" fill="#757B8A">Relational querying &amp; schemas</text>
+      </g>
+    </g>
+    <!-- Column 02 -->
+    <g transform="translate(251.0, 20)">
+      <rect x="0" y="0" width="223.0" height="200" rx="4" fill="#15171C" stroke="#23262E" stroke-width="1"/>
+      <line x1="0" y1="44" x2="223.0" y2="44" stroke="#23262E" stroke-width="1"/>
+      
+      <text x="14" y="24" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="9" font-weight="700" fill="#E06D3B" letter-spacing="1.5">02 // BACKEND &amp; DATA</text>
+      <text x="14" y="36" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8" fill="#757B8A">Architecture &amp; Persistence</text>
+      
+      <g transform="translate(14, 72)">
+        <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#F4F0EA">PostgreSQL</text>
+        <text x="0" y="14" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8.5" fill="#757B8A">Relational design &amp; indexing</text>
+      </g>
+      <g transform="translate(14, 104)">
+        <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#F4F0EA">RESTful APIs</text>
+        <text x="0" y="14" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8.5" fill="#757B8A">HTTP design, payloads, routing</text>
+      </g>
+      <g transform="translate(14, 136)">
+        <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#F4F0EA">MySQL</text>
+        <text x="0" y="14" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8.5" fill="#757B8A">Schema queries &amp; transactions</text>
+      </g>
+      <g transform="translate(14, 168)">
+        <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#F4F0EA">MongoDB</text>
+        <text x="0" y="14" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8.5" fill="#757B8A">Document-oriented storage</text>
+      </g>
+    </g>
+    <!-- Column 03 -->
+    <g transform="translate(486.0, 20)">
+      <rect x="0" y="0" width="223.0" height="200" rx="4" fill="#15171C" stroke="#23262E" stroke-width="1"/>
+      <line x1="0" y1="44" x2="223.0" y2="44" stroke="#23262E" stroke-width="1"/>
+      
+      <text x="14" y="24" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="9" font-weight="700" fill="#E06D3B" letter-spacing="1.5">03 // WEB &amp; INTERFACE</text>
+      <text x="14" y="36" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8" fill="#757B8A">Client-Side Engineering</text>
+      
+      <g transform="translate(14, 72)">
+        <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#F4F0EA">React</text>
+        <text x="0" y="14" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8.5" fill="#757B8A">Component lifecycle &amp; state</text>
+      </g>
+      <g transform="translate(14, 104)">
+        <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#F4F0EA">Streamlit</text>
+        <text x="0" y="14" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8.5" fill="#757B8A">Rapid ML application frontends</text>
+      </g>
+      <g transform="translate(14, 136)">
+        <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#F4F0EA">Modern CSS3</text>
+        <text x="0" y="14" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8.5" fill="#757B8A">Grid systems, flexbox, layouts</text>
+      </g>
+      <g transform="translate(14, 168)">
+        <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#F4F0EA">Semantic HTML5</text>
+        <text x="0" y="14" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8.5" fill="#757B8A">Accessible web document trees</text>
+      </g>
+    </g>
+    <!-- Column 04 -->
+    <g transform="translate(721.0, 20)">
+      <rect x="0" y="0" width="223.0" height="200" rx="4" fill="#15171C" stroke="#23262E" stroke-width="1"/>
+      <line x1="0" y1="44" x2="223.0" y2="44" stroke="#23262E" stroke-width="1"/>
+      
+      <text x="14" y="24" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="9" font-weight="700" fill="#E06D3B" letter-spacing="1.5">04 // TOOLCHAIN &amp; SPEC</text>
+      <text x="14" y="36" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8" fill="#757B8A">Engineering Practices</text>
+      
+      <g transform="translate(14, 72)">
+        <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#F4F0EA">Git &amp; GitHub</text>
+        <text x="0" y="14" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8.5" fill="#757B8A">Branching, PRs, version control</text>
+      </g>
+      <g transform="translate(14, 104)">
+        <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#F4F0EA">DSA Foundations</text>
+        <text x="0" y="14" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8.5" fill="#757B8A">~120 vetted solutions in Java</text>
+      </g>
+      <g transform="translate(14, 136)">
+        <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#F4F0EA">OOP Architecture</text>
+        <text x="0" y="14" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8.5" fill="#757B8A">SOLID principles &amp; patterns</text>
+      </g>
+      <g transform="translate(14, 168)">
+        <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#F4F0EA">System Design</text>
+        <text x="0" y="14" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8.5" fill="#757B8A">Scalability, caching, networks</text>
+      </g>
+    </g>
+
+  <!-- Bottom Deep Dive Banner -->
+  <g transform="translate(16, 236)">
+    <rect x="0" y="0" width="928" height="58" rx="4" fill="#15171C" stroke="#23262E" stroke-width="1"/>
+    <rect x="0" y="0" width="4" height="58" rx="2" fill="#E06D3B"/>
+    
+    <text x="20" y="24" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="9" font-weight="700" fill="#E06D3B" letter-spacing="2">ACTIVE EXPEDITIONS &amp; SYSTEM STUDY</text>
+    <text x="20" y="44" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="10.5" fill="#A2A7B4">
+      Deepening expertise in <tspan font-weight="700" fill="#F4F0EA">Distributed Backend Systems</tspan> · <tspan font-weight="700" fill="#F4F0EA">PostgreSQL Optimization</tspan> · <tspan font-weight="700" fill="#F4F0EA">Computer Networks &amp; OS</tspan> · <tspan font-weight="700" fill="#F4F0EA">Applied AI/ML Pipelines</tspan>
+    </text>
+  </g>
+</svg>

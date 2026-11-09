@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 180" width="100%" height="180" fill="none">
+  <rect x="0" y="0" width="960" height="180" rx="6" fill="#15171C" stroke="#23262E" stroke-width="1"/>
+
+  <text x="36" y="24" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="9.5" font-weight="700" fill="#E06D3B" letter-spacing="2">04 // CHRONOLOGY &amp; ENGINEERING PROGRESSION</text>
+
+  <line x1="60" y1="70" x2="900" y2="70" stroke="#23262E" stroke-width="1.5"/>
+
+  
+    <!-- Milestone 01 -->
+    <g>
+      
+      <circle cx="121.6" cy="70" r="5" fill="#15171C" stroke="#E06D3B" stroke-width="2"/>
+      
+      <text x="121.6" y="42" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8.5" font-weight="700" fill="#E06D3B" text-anchor="middle" letter-spacing="1">01 // 2023 – 2027</text>
+      
+      <text x="121.6" y="104" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#F4F0EA" text-anchor="middle">B.E. Computer Eng.</text>
+      <text x="121.6" y="122" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8.5" fill="#757B8A" text-anchor="middle">SPPU (PVG's COE &amp; SSDIOM)</text>
+    </g>
+    <!-- Milestone 02 -->
+    <g>
+      
+      <circle cx="300.79999999999995" cy="70" r="5" fill="#15171C" stroke="#E06D3B" stroke-width="2"/>
+      
+      <text x="300.79999999999995" y="42" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8.5" font-weight="700" fill="#E06D3B" text-anchor="middle" letter-spacing="1">02 // JAN – FEB 2026</text>
+      
+      <text x="300.79999999999995" y="104" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#F4F0EA" text-anchor="middle">AI/ML &amp; Data Intern</text>
+      <text x="300.79999999999995" y="122" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8.5" fill="#757B8A" text-anchor="middle">Supratech AI Solutions</text>
+    </g>
+    <!-- Milestone 03 -->
+    <g>
+      
+      <circle cx="480.0" cy="70" r="5" fill="#15171C" stroke="#E06D3B" stroke-width="2"/>
+      
+      <text x="480.0" y="42" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8.5" font-weight="700" fill="#E06D3B" text-anchor="middle" letter-spacing="1">03 // OCT 2026</text>
+      
+      <text x="480.0" y="104" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#F4F0EA" text-anchor="middle">Python Backend Core</text>
+      <text x="480.0" y="122" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8.5" fill="#757B8A" text-anchor="middle">APIs, PostgreSQL &amp; Systems</text>
+    </g>
+    <!-- Milestone 04 -->
+    <g>
+      
+      <circle cx="659.1999999999999" cy="70" r="5" fill="#15171C" stroke="#E06D3B" stroke-width="2"/>
+      
+      <text x="659.1999999999999" y="42" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8.5" font-weight="700" fill="#E06D3B" text-anchor="middle" letter-spacing="1">04 // NOV 2026</text>
+      
+      <text x="659.1999999999999" y="104" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#F4F0EA" text-anchor="middle">Systems &amp; DSA Depth</text>
+      <text x="659.1999999999999" y="122" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8.5" fill="#757B8A" text-anchor="middle">~120 Java DSA Solutions</text>
+    </g>
+    <!-- Milestone 05 -->
+    <g>
+      <circle cx="838.4" cy="70" r="10" fill="none" stroke="#E06D3B" stroke-width="1" opacity="0.35"/>
+      <circle cx="838.4" cy="70" r="6" fill="#E06D3B" stroke="#E06D3B" stroke-width="2"/>
+      
+      <text x="838.4" y="42" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8.5" font-weight="700" fill="#E06D3B" text-anchor="middle" letter-spacing="1">05 // 2027 TARGET</text>
+      
+      <text x="838.4" y="104" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#F4F0EA" text-anchor="middle">Full-Time SDE</text>
+      <text x="838.4" y="122" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8.5" fill="#757B8A" text-anchor="middle">Targeting Pune &amp; Bangalore</text>
+    </g>
+
+  <line x1="36" y1="154" x2="924" y2="154" stroke="#23262E" stroke-width="0.75"/>
+  <text x="36" y="168" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8" fill="#757B8A" letter-spacing="1.5">EVOLUTION: ACADEMIC FOUNDATIONS → PRODUCTION DATA SCIENCE → SCALABLE BACKEND SYSTEMS</text>
+</svg>

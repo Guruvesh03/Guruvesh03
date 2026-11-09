@@ -1,136 +1,161 @@
-<a href="https://github.com/Guruvesh03">
-  <img src="assets/banner.svg" width="100%" alt="Guruvesh Bachhav: Computer Engineering Student, Python, Backend, AI/ML" />
-</a>
+<!-- ═══════════════════════════════════════════════════════════════════
+     GURUVESH BACHHAV — DIGITAL IDENTITY & SYSTEMS ARCHITECTURE
+     Creative Direction: Swiss Editorial · Technical Notebook · Minimal Portfolio
+     Color System: Warm Ivory (#F4F0EA) · Deep Charcoal (#0E1013) · Burnt Orange (#E06D3B)
+     ═══════════════════════════════════════════════════════════════════ -->
 
-<a href="https://github.com/Guruvesh03">
-  <img src="assets/open-to-work.svg" width="100%" alt="Open to work: SDE and Python backend roles in Pune and Bangalore, graduating 2027" />
-</a>
+<!-- ▌ 00 — EDITORIAL MASTHEAD -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-dark.svg" width="100%" alt="Guruvesh Bachhav — Computer Engineering · Python Backend · AI/ML" />
+</picture>
+
+<!-- ▌ ACTIVE DISPATCH / STATUS -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/status-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/status-light.svg">
+  <img src="assets/status-dark.svg" width="100%" alt="Active Dispatch — Targeting SDE & Python Backend Roles — Pune · Bangalore · Hybrid — Graduating 2027" />
+</picture>
+
+<!-- ▌ 01 — PHILOSOPHY & OBJECTIVE -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/about-light.svg">
+  <img src="assets/about-dark.svg" width="100%" alt="Philosophy & Objective — A builder focused on understanding systems before optimizing them." />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+  <img src="assets/divider-dark.svg" width="100%" alt="" />
+</picture>
+
+<!-- ▌ 02 — TECHNICAL MATRIX -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/toolkit-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/toolkit-light.svg">
+  <img src="assets/toolkit-dark.svg" width="100%" alt="Technical Matrix — Languages, Backend & Data, Web & Interface, Toolchain & Spec" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+  <img src="assets/divider-dark.svg" width="100%" alt="" />
+</picture>
+
+<!-- ▌ 03 — CURATED WORKS & DOSSIERS -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/projects-light.svg">
+  <img src="assets/projects-dark.svg" width="100%" alt="Curated Works — Crop Predictor, Summary Generator, Scholar Mentor" />
+</picture>
 
 <div align="center">
-  <a href="https://github.com/Guruvesh03">
-    <img src="https://komarev.com/ghpvc/?username=Guruvesh03&style=for-the-badge&color=2563EB" alt="Profile views" />
-  </a>
+
+| DOSSIER ID | REPOSITORY / ARTIFACT | STACK | STATUS |
+| :--- | :--- | :--- | :--- |
+| **`ARCHIVE // 01`** | [**Crop Predictor**](https://github.com/Guruvesh03/Crop_Recommendation) | Python · Streamlit · Scikit-Learn | Deployed Agronomic Model ↗ |
+| **`ARCHIVE // 02`** | [**Summary Generator**](https://github.com/Guruvesh03) | Python · Tesseract OCR · NLP | Document Vision Synthesis ↗ |
+| **`ARCHIVE // 03`** | [**Scholar Mentor**](https://github.com/Guruvesh03/EduTechAssistance) | Python · Data Models · REST Architecture | Peer Guidance Platform ↗ |
+| **`FOUNDATIONS`** | [**DSA in Java**](https://github.com/Guruvesh03/DSA-in-Java) | Java · Data Structures · OOP | ~120 Algorithmic Solutions ↗ |
+
 </div>
 
-<p align="center"><a href="https://github.com/Guruvesh03"><img src="assets/divider.svg" width="100%" alt="" /></a></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+  <img src="assets/divider-dark.svg" width="100%" alt="" />
+</picture>
 
-## 💻 About Me
+<!-- ▌ 04 — CHRONOLOGY & PROGRESSION -->
 
-<a href="https://github.com/Guruvesh03">
-  <img src="assets/terminal-about.svg" width="100%" alt="Terminal: Guruvesh Bachhav, Computer Engineering student, Python backend and AI/ML focus, Java for DSA" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/timeline-light.svg">
+  <img src="assets/timeline-dark.svg" width="100%" alt="Chronology & Engineering Progression — 2023 to 2027" />
+</picture>
 
-<p align="center"><a href="https://github.com/Guruvesh03"><img src="assets/divider.svg" width="100%" alt="" /></a></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+  <img src="assets/divider-dark.svg" width="100%" alt="" />
+</picture>
 
-## ⚡ Skills
-
-<a href="https://github.com/Guruvesh03">
-  <img src="assets/marquee.svg" width="100%" alt="Scrolling skills: Python, Java, JavaScript, React, HTML, CSS, SQL, MongoDB, Git. Learning: Python backend, PostgreSQL, APIs, AI/ML" />
-</a>
-
-<p align="center"><a href="https://github.com/Guruvesh03"><img src="assets/divider.svg" width="100%" alt="" /></a></p>
-
-## 🪐 My Language Solar System
-
-<a href="https://github.com/Guruvesh03?tab=repositories">
-  <img src="assets/solar-system.svg" width="100%" alt="Animated solar system: Python, Java, JavaScript, React, SQL and HTML/CSS orbiting the sun" />
-</a>
-
-<p align="center"><a href="https://github.com/Guruvesh03"><img src="assets/divider.svg" width="100%" alt="" /></a></p>
-
-## 🧭 My Journey
-
-<a href="https://github.com/Guruvesh03">
-  <img src="assets/terminal-journey.svg" width="100%" alt="Git log style timeline: B.E. Computer Engineering, AI/ML internship Jan-Feb 2026, chose Python backend Oct 2026, graduating 2027" />
-</a>
-
-<p align="center"><a href="https://github.com/Guruvesh03"><img src="assets/divider.svg" width="100%" alt="" /></a></p>
-
-## 🧩 DSA Progress
+<!-- ▌ 05 — ALGORITHMIC TELEMETRY -->
 
 <a href="https://github.com/Guruvesh03/DSA-in-Java">
-  <img src="assets/dsa-progress.svg" width="100%" alt="DSA progress bars: arrays, strings, patterns, bit manipulation, 2D arrays and sorting done; recursion in progress" />
-</a>
-
-<p align="center"><a href="https://github.com/Guruvesh03"><img src="assets/divider.svg" width="100%" alt="" /></a></p>
-
-## 🚀 Featured Projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| **Crop Predictor** | Crop recommendation app built during my AI/ML internship | Python, Streamlit |
-| **Summary Generator** | OCR-based document summarizer | Python, OCR |
-| **Scholar Mentor** | Student-focused mentoring platform | Python |
-
-<!-- TODO: add a repo link for each project above once the code is public -->
-
-### 🌌 Top Repositories
-
-<a href="https://github.com/Guruvesh03?tab=repositories">
-  <img src="assets/top-repos.svg" width="100%" alt="Top repositories ranked by stars" />
-</a>
-
-<p align="center"><a href="https://github.com/Guruvesh03"><img src="assets/divider.svg" width="100%" alt="" /></a></p>
-
-## 📡 Mission Control
-
-<a href="https://github.com/Guruvesh03">
-  <img src="assets/mission-control.svg" width="100%" alt="GitHub stats: contributions, streaks, repositories, stars, followers" />
-</a>
-
-<a href="https://github.com/Guruvesh03?tab=repositories">
-  <img src="assets/top-languages.svg" width="100%" alt="Top languages shown as planets sized by code share" />
-</a>
-
-<p align="center"><a href="https://github.com/Guruvesh03"><img src="assets/divider.svg" width="100%" alt="" /></a></p>
-
-## 🎮 Contribution Journey
-
-<div align="center">
-
-<a href="https://github.com/Guruvesh03">
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Guruvesh03/Guruvesh03/pacman-output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Guruvesh03/Guruvesh03/pacman-output/galaga-contribution-graph.svg">
-  <img alt="Galaga contribution graph"
-       src="https://raw.githubusercontent.com/Guruvesh03/Guruvesh03/pacman-output/galaga-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dsa-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/dsa-light.svg">
+  <img src="assets/dsa-dark.svg" width="100%" alt="Algorithmic Telemetry — Java Data Structures & Algorithms (~120 Problems Solved)" />
 </picture>
 </a>
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+  <img src="assets/divider-dark.svg" width="100%" alt="" />
+</picture>
 
-<p align="center"><a href="https://github.com/Guruvesh03"><img src="assets/divider.svg" width="100%" alt="" /></a></p>
+<!-- ▌ 06 — ENGINEERING TELEMETRY -->
 
-## 🌌 Currently Learning
+<a href="https://github.com/Guruvesh03?tab=repositories">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/telemetry-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/telemetry-light.svg">
+  <img src="assets/telemetry-dark.svg" width="100%" alt="Engineering Telemetry & Repository Benchmark — 13 Public Repositories, ~120+ DSA Solutions, 2027 Target" />
+</picture>
+</a>
 
-- 🪐 Python backend (APIs, databases, deployment)
-- 🪐 PostgreSQL and SQL
-- 🪐 React (building on my basics)
-- 🪐 Data Structures & Algorithms
-- 🪐 Computer Networks and System Design fundamentals
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+  <img src="assets/divider-dark.svg" width="100%" alt="" />
+</picture>
 
-<p align="center"><a href="https://github.com/Guruvesh03"><img src="assets/divider.svg" width="100%" alt="" /></a></p>
-
-## 🤝 Connect With Me
+<!-- ▌ 07 — ACTIVITY TELEMETRY -->
 
 <p align="center">
   <a href="https://github.com/Guruvesh03">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guruvesh03/Guruvesh03/pacman-output/galaga-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guruvesh03/Guruvesh03/pacman-output/galaga-contribution-graph.svg">
+      <img src="https://raw.githubusercontent.com/Guruvesh03/Guruvesh03/pacman-output/galaga-contribution-graph-dark.svg" width="100%" alt="Galaga Contribution Graph — Guruvesh03" />
+    </picture>
   </a>
-
-  <a href="https://www.linkedin.com/in/guruvesh-bachhav-099538312/">
-    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="guruveshbachhav@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
- <!-- <a href="YOUR-RESUME-LINK">
-    <img src="https://img.shields.io/badge/Resume-4ADE80?style=for-the-badge&logo=readthedocs&logoColor=black" alt="Resume"/>
-  </a> -->
 </p>
 
-<a href="https://github.com/Guruvesh03">
-  <img src="assets/footer.svg" width="100%" alt="Thanks for stopping by" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+  <img src="assets/divider-dark.svg" width="100%" alt="" />
+</picture>
+
+<!-- ▌ 08 — DIRECT DISPATCH & ROUTING -->
+
+<div align="center">
+
+| DISPATCH CHANNEL | DIRECT ROUTING | PROTOCOL |
+| :--- | :--- | :--- |
+| **`01 // GITHUB`** | [github.com/Guruvesh03](https://github.com/Guruvesh03) | Open Source Code & Systems Architecture ↗ |
+| **`02 // LINKEDIN`** | [linkedin.com/in/guruvesh-bachhav](https://www.linkedin.com/in/guruvesh-bachhav-099538312/) | Professional Network & Career Inquiries ↗ |
+| **`03 // DIRECT EMAIL`** | [guruveshbachhav@gmail.com](mailto:guruveshbachhav@gmail.com) | Direct Engineering Inquiries & Opportunities ↗ |
+| **`04 // DSA ARCHIVE`** | [github.com/Guruvesh03/DSA-in-Java](https://github.com/Guruvesh03/DSA-in-Java) | Algorithmic Problem Solving in Java ↗ |
+
+</div>
+
+<br>
+
+<!-- ▌ COLOPHON & VERIFICATION -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
+  <img src="assets/footer-dark.svg" width="100%" alt="Colophon & Verification — Designed with intention. © 2026 Guruvesh Bachhav" />
+</picture>

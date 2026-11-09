@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 220" width="100%" height="220" fill="none">
+  <rect x="0" y="0" width="960" height="220" rx="6" fill="#15171C" stroke="#23262E" stroke-width="1"/>
+
+  <!-- Left Editorial Column (Restrained width to prevent right-side overlap) -->
+  <g transform="translate(36, 26)">
+    <text x="0" y="10" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="9.5" font-weight="700" fill="#E06D3B" letter-spacing="2.5">01 // PHILOSOPHY &amp; OBJECTIVE</text>
+    
+    <text x="0" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif" font-size="18.5" font-weight="700" fill="#F4F0EA">
+      A builder focused on understanding systems before optimizing them.
+    </text>
+
+    <text x="0" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#A2A7B4">
+      <tspan x="0" dy="0">Computer Engineering undergraduate at Savitribai Phule Pune University (SPPU), graduating Class of 2027.</tspan>
+      <tspan x="0" dy="21">I design and engineer backend architectures with Python, structuring robust REST APIs, SQL schemas, and data pipelines.</tspan>
+      <tspan x="0" dy="21">My algorithmic foundation is built in Java, maintaining rigorous practice across ~120+ verified data structures &amp; algorithms.</tspan>
+      <tspan x="0" dy="21">Currently targeting Software Development Engineer (SDE) and Python backend engineering opportunities in Pune and Bangalore.</tspan>
+    </text>
+  </g>
+
+  <!-- Vertical Divider (At x=650) -->
+  <line x1="650" y1="20" x2="650" y2="200" stroke="#23262E" stroke-width="1" stroke-dasharray="4 4"/>
+
+  <!-- Right Telemetry Metrics (At x=676) -->
+  <g transform="translate(676, 26)">
+    <text x="0" y="10" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="9" font-weight="700" fill="#757B8A" letter-spacing="2">KEY METRICS</text>
+
+    <text x="0" y="42" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8.5" fill="#757B8A">PRIMARY FOCUS</text>
+    <text x="0" y="58" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="11" font-weight="600" fill="#F4F0EA">Python · APIs · PostgreSQL</text>
+
+    <text x="0" y="90" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8.5" fill="#757B8A">DSA BENCHMARK</text>
+    <text x="0" y="106" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="11" font-weight="600" fill="#E06D3B">~120 Problems in Java</text>
+
+    <text x="0" y="138" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8.5" fill="#757B8A">INTERNSHIP SHIPPED</text>
+    <text x="0" y="154" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="11" font-weight="600" fill="#F4F0EA">3 ML &amp; OCR Systems</text>
+  </g>
+</svg>

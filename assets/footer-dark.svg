@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 96" width="100%" height="96" fill="none">
+  <line x1="16" y1="1" x2="944" y2="1" stroke="#23262E" stroke-width="1"/>
+
+  <path d="M 12 1 H 20 M 16 -3 V 5" stroke="#E06D3B" stroke-width="1"/>
+  <path d="M 940 1 H 948 M 944 -3 V 5" stroke="#E06D3B" stroke-width="1"/>
+
+  <text x="36" y="36" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="9" font-weight="700" fill="#E06D3B" letter-spacing="2">COLOPHON &amp; VERIFICATION</text>
+  <text x="36" y="54" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8.5" fill="#757B8A" letter-spacing="1">TYPESET IN EDITORIAL GROTESK &amp; JETBRAINS MONO · ARCHITECTURAL SWISS GRID SPECIFICATION</text>
+  <text x="36" y="70" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8" fill="#757B8A">DEVELOPED FOR GURUVESH BACHHAV · HOSTED ON GITHUB · CONTINUOUS INTEGRATION REFRESHED</text>
+
+  <g transform="translate(800, 24)">
+    <rect x="0" y="0" width="124" height="48" rx="3" fill="#15171C" stroke="#23262E" stroke-width="1"/>
+    <rect x="0" y="0" width="3" height="48" rx="1.5" fill="#E06D3B"/>
+    
+    <text x="14" y="20" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="8" font-weight="700" fill="#E06D3B">GURUVESH BACHHAV</text>
+    <text x="14" y="36" font-family="'JetBrains Mono', 'SF Mono', Consolas, 'IBM Plex Mono', 'Courier New', monospace" font-size="7.5" fill="#757B8A">© 2026 · ALL RIGHTS RESERVED</text>
+  </g>
+</svg>
